@@ -1,8 +1,13 @@
 # Springboot-Mongodb
-This is the java spring boot project integrated with mongodb
+### This is the java spring boot project integrated with mongodb
 ![Mongo-Spring]( https://github.com/Bhavesh-SP18/Springboot-Mongodb/blob/main/maxresdefault.jpg)
 
-## Starter data MongoDB (the dependency we added while creating the Spring Initializr project) in pom.xml
+### Starter data MongoDB (the dependency we added while creating the Spring Initializr project) in pom.xml
+
+- Spring web
+- Spring Data MondoDB
+- Lombok
+- Spring Boot DevTools
 
 #### A property on application.properties file to specify the connection string to a MongoDB cluster Connection to MongoDB Atlas does not require any other code. 
 
