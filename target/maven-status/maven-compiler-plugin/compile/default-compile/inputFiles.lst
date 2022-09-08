@@ -1,0 +1,8 @@
+/home/bhavesh/WorkspaceSP-18/Springboot-Mongodb/src/main/java/com/example/mongo/repositories/BookRepo.java
+/home/bhavesh/WorkspaceSP-18/Springboot-Mongodb/src/main/java/com/example/mongo/config/SwaggerConfig.java
+/home/bhavesh/WorkspaceSP-18/Springboot-Mongodb/src/main/java/com/example/mongo/controller/BookController.java
+/home/bhavesh/WorkspaceSP-18/Springboot-Mongodb/src/main/java/com/example/mongo/models/User.java
+/home/bhavesh/WorkspaceSP-18/Springboot-Mongodb/src/main/java/com/example/mongo/repositories/UserRepository.java
+/home/bhavesh/WorkspaceSP-18/Springboot-Mongodb/src/main/java/com/example/mongo/MongoApplication.java
+/home/bhavesh/WorkspaceSP-18/Springboot-Mongodb/src/main/java/com/example/mongo/config/EnableSwagger2.java
+/home/bhavesh/WorkspaceSP-18/Springboot-Mongodb/src/main/java/com/example/mongo/models/Book.java

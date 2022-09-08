@@ -1,0 +1,8 @@
+com/example/mongo/models/Book.class
+com/example/mongo/models/User.class
+com/example/mongo/repositories/UserRepository.class
+com/example/mongo/controller/BookController.class
+com/example/mongo/MongoApplication.class
+com/example/mongo/config/SwaggerConfig.class
+com/example/mongo/config/EnableSwagger2.class
+com/example/mongo/repositories/BookRepo.class

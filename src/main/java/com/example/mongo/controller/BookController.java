@@ -23,7 +23,6 @@ public class BookController {
     @GetMapping("/findAllBooks")
     @RequestMapping(value = "/findAllBooks", method= RequestMethod.GET)
     public List<Book> getBooks() {
-
         return repo.findAll();
     }
 
